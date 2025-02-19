@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/testschnorr.dir/src/main.cpp.o -o testschnorr  /tmp/tmp.9mfylExC0l/libs/core.a 
